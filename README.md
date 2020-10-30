@@ -1,4 +1,4 @@
-# Classification-of-APS-Failure-data-using-Decision-Trees
+# Classification-model-using-Decision-Trees
 The dataset is obtained from - https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks
 
 The first step was the pre-processing stage where missing data was filled using the mean of the remaining elements in the column. 
